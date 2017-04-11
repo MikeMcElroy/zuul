@@ -1,7 +1,7 @@
 {
-  "name": "zuul",
+  "name": "MM-zuul",
   "version": "3.11.1",
-  "description": "simple browser testing",
+  "description": "simple browser testing that works",
   "main": "lib/zuul.js",
   "dependencies": {
     "JSON2": "0.1.0",
@@ -39,7 +39,7 @@
     "wd": "0.3.11",
     "xtend": "2.1.2",
     "yamljs": "0.2.8",
-    "zuul-localtunnel": "1.1.0"
+    "MikeMcElroy/zuul-localtunnel": "1.1.0"
   },
   "devDependencies": {
     "after": "~0.8.1",
